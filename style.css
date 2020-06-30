@@ -3,6 +3,10 @@ body {
 	font-family: helvetica;
 } 
 
+h1 {
+	color: red;
+}
+
 #logo {
 	height: 80px;
 	width: 80px;
